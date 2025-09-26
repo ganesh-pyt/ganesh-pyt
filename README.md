@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ganesh Manchi 🤵</h1>
-<h3 align="center">System Engineer @TCS ✨ | Ex-SDE Intern @ZopSmart 🔥 | FullStack Developer (React | SpringBoot | Go) 🙋‍♂️ | 1700+ Rated @Leetcode 🏆 | Codechef 3⭐️ | CSE Graduate 💻 | SRKR'23 🎓</h3>
+<h1 align="center">Hi 👋, I'm Ganesh (Algo) 🤵</h1>
+<h3 align="center">SDE 2 | Tech @ Fluid ✨ | FullStack Developer (Java | SpringBoot | Golang) 🙋‍♂️ | 1900+ Rated @Leetcode 🏆 | Codechef 3 ⭐️ | CSE Graduate 💻 | SRKR'23 🎓</h3>
 
 <img align=right alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Go and Java**
+- 🔭 I’m currently working on **Java and SpringBoot**
 
 - 🌱 I’m currently learning **System Design**
-
-- 🤝 I’m looking for contribution with **StartUpSync**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
