@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ganesh (Algo) 🤵</h1>
 <h3 align="center">SDE 2 | Tech @ Fluid ✨ | Building Scalable Systems (Java | SpringBoot | AI) 🙋‍♂️ | 1900+ Rated @Leetcode 🏆 | Codechef 3 ⭐️ | CSE Graduate 💻 | SRKR'23 🎓</h3>
 
-<img align=right alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+---
 
-- 🔭 I’m currently working on **Java and SpringBoot**
+- 🔭 I’m currently working on **Java and SpringBoot**  
+- 🌱 I’m currently learning **System Design & Cloud-Native Development**  
+- ⚡ Fun fact: I love **debugging complex bugs** & solving **DSA problems**  
+- 🏆 Motto: *"Code. Solve. Scale."*  
 
-- 🌱 I’m currently learning **System Design**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
   
 <a href="https://linkedin.com/in/ganesh-manchi-a214501a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-manchi-a214501a0" height="30" width="40" /></a>
@@ -19,8 +23,10 @@
 <a href="https://auth.geeksforgeeks.org/user/ganeshmanchi123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ganeshmanchi123" height="30" width="40" /></a>
 
 </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
+
 <p align="left">
     
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -85,8 +91,41 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-pyt&show_icons=true&locale=en&layout=compact" alt="ganeshvenkatasai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh-pyt&show_icons=true&locale=en" alt="ganeshvenkatasai" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-pyt&" alt="ganeshvenkatasai" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-pyt&show_icons=true&locale=en" alt="ganesh-pyt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-pyt&show_icons=true&locale=en&layout=compact" alt="ganesh-pyt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-pyt" alt="ganesh-pyt" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh-pyt&theme=onedark&no-frame=true&margin-w=10" alt="trophies"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph:
+[![Ganesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh-pyt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 📌 Featured Projects:
+<p align="center">
+  <a href="https://github.com/ganesh-pyt/system-design-examples">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganesh-pyt&repo=system-design-examples&theme=github_dark" />
+  </a>
+  <a href="https://github.com/ganesh-pyt/ai-ml-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganesh-pyt&repo=ai-ml-projects&theme=github_dark" />
+  </a>
+</p>
+
+---
+
+### 👀 Profile Views:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-pyt&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-pyt" /> </p>
