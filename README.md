@@ -6,7 +6,7 @@
 ---
 
 - 🔭 I’m currently working on **Java and SpringBoot**  
-- 🌱 I’m currently learning **System Design & Cloud-Native Development**  
+- 🌱 I’m currently learning **System Design & Cloud Native Development**  
 - ⚡ Fun fact: I love **debugging complex bugs** & solving **DSA problems**  
 - 🏆 Motto: *"Code. Solve. Scale."*  
 
